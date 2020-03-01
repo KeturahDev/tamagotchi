@@ -6,16 +6,23 @@
   background-size: cover;
 }
 .rainbow-text {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  /* background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); */
   /* -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; */
-  font-size: 50px;
+  color: gold;
+  font-size: 25px;
 }
 body {
   background-color: rgb(170, 211, 223);
 }
+.healths{
+  padding:10px;
+}
 .gamescreen{
   display: none;
+  padding:10px;
+  /* margin-top: 60%; */
+  /* margin-bottom: 60%; */
 }
 #tired{
   display: none;
@@ -36,11 +43,11 @@ body {
   text-align: center;
 }
 img {
-  max-height: 500px;
-  min-height: 500px;
+  max-height: 400px;
+  min-height: 400px;
   border-radius: 35%;
   border: 30px lightblue;
-  margin: 50px;
+  /* margin-bottom: 50px; */
   
 }
 
