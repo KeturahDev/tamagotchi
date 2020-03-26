@@ -27,7 +27,7 @@ An interactive Tamagotchi-like app where the user sends their Code-agotchi to co
 ## Setup/Installation Requirements
 
 1. To Run this webpage, open the command prompt and type:
-$ git clone : https://github.com/dcluukko/Ind-proj-4-Pizza-Parlor.git
+$ git clone : https://github.com/KeturahDev/tamagotchi.git
 2. Navigate into the ind-proj-4 directory
 $ cd desktop/ind-proj-4
 3. Open the directory to VS Code.
@@ -56,4 +56,4 @@ _Email Dcluukko@gmail.com with any questions or concerns_
 
 *{This software is licensed under the MIT license}*
 
-Copyright (c) 2020 **_Dana Luukko_**
+Copyright (c) 2020 **_Dana Luukko_ and _Keturah Howard_**
